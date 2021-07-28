@@ -24,7 +24,7 @@ Demo Video:[Click Here](https://drive.google.com/file/d/1R0UXPUSGQBILp2bLlLHK7NL
 ### Individual Member Contribution
 ---
 
-## Kumar Abhishek - Programmer (Representative)
+## Kumar Abhishek - Programmer(Representative)
 Written scripts to control the movement of ball,rotation of gem. Made different scene(Starting scene,Level selector,different level scene) and written script to go from one game scene to other.
 
 ## Pratham Jain - Programmer
